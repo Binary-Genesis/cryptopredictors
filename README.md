@@ -5,4 +5,8 @@ create a file called config.ini
 api_key = YOUR API KEY HERE
 
 
-I'm not responsible for your losses or gains. If you want donate to support the development of this project.
+I'm not responsible for your losses or gains, this project is experimental and is prone to innaccuracy.
+I am not a finiancial advisor, I live in a bush next to your house. Please buy me coffee.
+
+
+https://discord.gg/tP8XUHetRs 
