@@ -1,6 +1,8 @@
 # cryptopredictors
-A rough draft of a machine learning ensemble trained on live data for multiple crypto assets
-create a file called config.ini 
+A rough draft of a machine learning ensemble trained on live data for multiple crypto assets.
+
+To use these scripts visit https://www.coingecko.com/en/api/pricing and grab a demo api for free.
+Create a file called config.ini 
 [coingecko]
 api_key = YOUR API KEY HERE
 
